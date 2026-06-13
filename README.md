@@ -1,8 +1,5 @@
 # BlockGuard — Blockchain-Based Permission Enforcement for Autonomous AI Agents
 
-> Research prototype implementing the paper: *"Blockchain-Based Permission Enforcement for Autonomous AI Agents: Balancing Safety, Performance, and Transparency"*
-
----
 
 ## Architecture Overview
 
