@@ -1,0 +1,10 @@
+{
+  "ganache": {
+    "network": "ganache",
+    "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "deployerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deployedAt": "2026-06-05T07:09:29.999Z",
+    "txHash": "0x8ea26f38ea205a4d8743ededeb59103b158c58fdb6b65dcea4fd1c3bdf1a147e",
+    "abi": "See artifacts/contracts/AgentPermissionRegistry.sol/AgentPermissionRegistry.json"
+  }
+}
